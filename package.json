@@ -1,0 +1,26 @@
+{
+  "scripts": {
+    "test": "mocha"
+  },
+  "name": "mocha",
+  "version": "1.0.0",
+  "description": "Project create to learning about mocha and node",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipefranca/mocha.git"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "Felipe França",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipefranca/mocha/issues"
+  },
+  "homepage": "https://github.com/felipefranca/mocha#readme"
+}
