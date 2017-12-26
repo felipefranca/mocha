@@ -1,50 +1,28 @@
 {
-<<<<<<< HEAD
   "name": "mocha",
   "version": "1.0.0",
-  "description": "Project created to tests",
-  "main": "app.js",
-=======
-  "scripts": {
-    "test": "mocha"
-  },
-  "name": "mocha",
-  "version": "1.0.0",
-  "description": "Project create to learning about mocha and node",
+  "description": "Project tp learn node and mocha",
   "main": "index.js",
->>>>>>> 13ed0161d6e0360ede96d575dd84407321c0d0e2
-  "dependencies": {},
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
   "devDependencies": {
     "mocha": "^4.0.1"
   },
-<<<<<<< HEAD
   "scripts": {
-    "test": "mocha || true"
+    "test": "mocha"
   },
-=======
->>>>>>> 13ed0161d6e0360ede96d575dd84407321c0d0e2
   "repository": {
     "type": "git",
     "url": "git+https://github.com/felipefranca/mocha.git"
   },
-<<<<<<< HEAD
-  "author": "felipe frança",
-=======
-  "keywords": [
-    "mocha"
-  ],
   "author": "Felipe França",
->>>>>>> 13ed0161d6e0360ede96d575dd84407321c0d0e2
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/felipefranca/mocha/issues"
   },
-<<<<<<< HEAD
-  "homepage": "https://github.com/felipefranca/mocha#readme",
-  "directories": {
-    "test": "test"
-  }
-=======
   "homepage": "https://github.com/felipefranca/mocha#readme"
->>>>>>> 13ed0161d6e0360ede96d575dd84407321c0d0e2
 }
